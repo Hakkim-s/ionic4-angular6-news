@@ -11,3 +11,4 @@ import { TabsPage } from './tabs';
   ],
 })
 export class TabsPageModule {}
+
